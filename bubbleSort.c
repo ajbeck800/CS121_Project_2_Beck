@@ -16,10 +16,10 @@
  * 			swap array[j] with array[j+1]
  * 			printArray(array)
  *
- * function swap (*x, *y):
- * 	integer temp is equal to *x
- * 	integer *x is equal to *y
- * 	integer *y is equal to temp
+ * function swap (pointer x, pointer y):
+ * 	integer temp is equal to pointer x
+ * 	pointer x is equal to pointer y
+ * 	pointer y is equal to temp
 */
 
 #include <stdio.h>
